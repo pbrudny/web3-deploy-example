@@ -1,4 +1,6 @@
-// see https://github.com/ethereumjs/ethereumjs-tx#usage
+/* 
+  inspired by https://www.youtube.com/watch?v=msT3tpwnyv8&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN
+*/
 
 var Tx = require('ethereumjs-tx');
 require('dotenv').config();
