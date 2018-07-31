@@ -15,8 +15,8 @@ Try to write a code yourself before checking the code in the repo!
 * deploy compiled contract to Ropsten using Infura
 
 ## Other challenges
-[1-11](https://github.com/pbrudny/learning-solidity-2018)
-[12-29](https://github.com/pbrudny/truffle_challenges) 
+* [Plain Solidity: 1-11](https://github.com/pbrudny/learning-solidity-2018)
+* [Truffle challenges: 12-29](https://github.com/pbrudny/truffle-challenges) 
 
 ## Like it?
 If you like it please share it with others :)
