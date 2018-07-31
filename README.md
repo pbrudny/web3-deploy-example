@@ -14,13 +14,9 @@ Try to write a code yourself before checking the code in the repo!
 * use web3 and ethereumjs-tx to send signed transaction
 * deploy compiled contract to Ropsten using Infura
 
-## Previous challenges
-### Plain Smart Contracts
-[here](https://github.com/pbrudny/learning-solidity-2018)
-
-### Truffle challenges
-[here](https://github.com/pbrudny/truffle_challenges) 
-
+## Other challenges
+[1-11](https://github.com/pbrudny/learning-solidity-2018)
+[12-29](https://github.com/pbrudny/truffle_challenges) 
 
 ## Like it?
 If you like it please share it with others :)
